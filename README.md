@@ -48,6 +48,9 @@ DISCORD_CHANNEL_ID = "Discord Channel ID"
 ## Usage
 
 ```bash
+python -m venv venv
+source venv/bin/activate # Linux
+venv/Scripts/activate # Windows
 python main.py
 ```
 
