@@ -1,0 +1,17 @@
+# virtual envrionment
+venv
+
+# ignore resoures
+images
+videos
+
+# ignore files
+*.log
+
+# ignore all .env files except .env.local
+.env
+.env.*
+!.env.example 
+
+# ignore session for tg bot
+*.session
